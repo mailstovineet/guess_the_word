@@ -1,0 +1,51 @@
+body
+{
+	background: rgb(120, 198, 224);
+}
+
+	div
+	{
+		background:black;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width:40%;
+		margin-top:50px;
+		color:rgb(247, 3, 3);
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background-color: rgb(251, 4, 4);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+
+}
+button{
+width:170px;
+height:50px;	
+}
+h1{
+	background-color:rgb(110, 234, 176);
+	width:50%;
+}
+input{
+	color:black;
+}
